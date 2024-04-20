@@ -1,0 +1,36 @@
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.deps.json
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.dll
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.pdb
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.AssemblyInfoInputs.cache
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.AssemblyInfo.cs
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.csproj.CoreCompileInputs.cache
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.dll
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\refint\EasyParking.Core.dll
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.pdb
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\ref\EasyParking.Core.dll
+G:\Easy Parking Project Demo\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.csproj.AssemblyReference.cache
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.deps.json
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.dll
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.pdb
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.csproj.AssemblyReference.cache
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.GeneratedMSBuildEditorConfig.editorconfig
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.AssemblyInfoInputs.cache
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.AssemblyInfo.cs
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.csproj.CoreCompileInputs.cache
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.dll
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\refint\EasyParking.Core.dll
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.pdb
+U:\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\ref\EasyParking.Core.dll
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.deps.json
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.dll
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\bin\Debug\net6.0\EasyParking.Core.pdb
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.dll
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\refint\EasyParking.Core.dll
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\EasyParking.Core.pdb
+C:\Users\USER\OneDrive\Desktop\ParkPoint-master\ParkPoint-master\EasyParking.APIs.Solution\EasyParking.Core\obj\Debug\net6.0\ref\EasyParking.Core.dll

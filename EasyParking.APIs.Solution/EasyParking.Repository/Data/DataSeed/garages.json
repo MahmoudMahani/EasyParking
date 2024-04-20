@@ -1,0 +1,16 @@
+[
+  {
+    "LocationUrl": "https://maps.app.goo.gl/oaiUYB78SpcS8nCp7",
+    "HourPrice": 25,
+    "Name": "BHI47",
+    "PictureUrl": "images\\garages\\Garage.png",
+    "State": true
+  },
+  {
+    "LocationUrl": "https://maps.app.goo.gl/vqgPfVSyX8fSSd8U9",
+    "HourPrice": 20,
+    "Name": "BHIGarage",
+    "PictureUrl": "images\\garages\\Garage.png",
+    "State": false
+  }
+]
